@@ -37,4 +37,8 @@ I currently have:
 # Skills involved:
 * Expanding use of spatial tools in R
 * Using functions to repeat the analysis for all years with data (2014-2017)
+<<<<<<< HEAD
 * Continuing to use dplyr
+=======
+* Continuing to use dplyr
+>>>>>>> d16b40bee80583a3fd6b9391b41c451ef9215ec0
